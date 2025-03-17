@@ -1,4 +1,4 @@
-package com.example.gogo_backend;
+package com.dev.gogo_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
